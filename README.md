@@ -1,5 +1,3 @@
-***
-
 # Sudoku Heuristic Solver (C++)
 
 This project implements a **constraint satisfaction problem (CSP) solver** for Sudoku puzzles in C++.
