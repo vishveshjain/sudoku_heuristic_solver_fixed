@@ -26,7 +26,7 @@ It uses a combination of modern heuristic techniques to efficiently solve puzzle
 Make sure you have a modern C++ compiler (supporting C++17 or later).
 
 ```bash
-g++ -O2 -std=c++17 sudoku_heuristic_solver_fixed.cpp -o sudoku_solver
+g++ -O2 -std=c++17 main.cpp -o sudoku_solver
 ```
 
 
